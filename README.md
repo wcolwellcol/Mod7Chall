@@ -6,7 +6,12 @@ All code is in the the starter code folder, specifically in etf_analyzer.ipynb
 
 Within that notebook, hvplot is utilized to visualize the various analyzes run.
 
+Here are some example screenshots of the app deployed via Voilà:
 
+![Screenshot 2023-04-28 at 1 59 37 PM](https://user-images.githubusercontent.com/127547316/235220543-d9cddc0b-ca7e-4b24-871c-eb164d0644a4.png)
+![Screenshot 2023-04-28 at 1 59 45 PM](https://user-images.githubusercontent.com/127547316/235220567-7415d1a0-f442-4e16-b8d7-d4f5f69838b6.png)
+![Screenshot 2023-04-28 at 1 59 56 PM](https://user-images.githubusercontent.com/127547316/235220580-0ca53d98-f4fd-4070-83ce-39c065849f96.png)
+![Screenshot 2023-04-28 at 2 00 22 PM](https://user-images.githubusercontent.com/127547316/235220597-37c1e5a6-bbdd-4fd4-a7fd-f13b7e34b7e9.png)
 
 ## Contributors
 
